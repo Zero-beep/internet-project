@@ -5,6 +5,10 @@
 <head>
 <title>your account</title>
 <title>your account</title>
+<title>your account</title>
+<title>your account</title>
+<title>your account</title>
+<title>your account</title>
 </head>
 
 <header >
